@@ -33,5 +33,7 @@ Análises sobre a intersecção entre tecnologia e eficiência operacional, foca
 ### 📂 [Acesse aqui meu Hub de Projetos Estratégicos](https://github.com/Kat-Ak/hub-projetos-dio/blob/main/README.md)
 
 ### 📫 **Conecte-se comigo:**
-- [LinkedIn](https://www.linkedin.com/in/katia-akamoto-home-office)
-- [perfil na Dio](https://web.dio.me/users/katiaakamoto)
+ [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kat-Ak)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katia-akamoto-home-office/)
+ <a href="https://www.dio.me/">
+      <img align="center" width="25px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a> [perfil na Dio](https://web.dio.me/users/katiaakamoto)
