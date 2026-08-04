@@ -34,6 +34,24 @@ Análises sobre a intersecção entre tecnologia e eficiência operacional, foca
 
 ### 📫 **Conecte-se comigo:**
 
+<!-- GitHub -->
+<a href="https://github.com/Kat-Ak" target="_blank">
+  <img src="https://github.com/Kat-Ak/galeria-visual/blob/main/presenca-digital/GitHub-logo.png?raw=true" alt="GitHub" height="40">
+</a>
+
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/katia-akamoto-home-office" target="_blank">
+  <img src="https://github.com/Kat-Ak/galeria-visual/blob/main/presenca-digital/Linkedin-in-logo.png?raw=true" alt="LinkedIn" height="40">
+</a>
+
+<!-- DIO -->
+<a href="https://web.dio.me/users/katiaakamoto" target="_blank">
+  <img src="https://github.com/Kat-Ak/galeria-visual/blob/main/presenca-digital/Dio-logo.png?raw=true" alt="DIO" height="40">
+</a>
+
+
+
+
 imagem [https://github.com/Kat-Ak/galeria-visual/blob/main/banners-hub/GitHub-logo_completo.png](https://github.com/Kat-Ak/galeria-visual/blob/main/presenca-digital/GitHub-logo.png?raw=true)
 link: https://github.com/Kat-Ak
 
