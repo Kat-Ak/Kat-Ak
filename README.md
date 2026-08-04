@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kat-Ak/galeria-visual/main/banners-perfil/Banner%20do%20Perfil_Clareza,%20Estrutura%20e%20Toque%20Humano_.v1.png" width="100%">
+  <img src="https://raw.githubusercontent.com/Kat-Ak/galeria-visual/main/banners-perfil/banner-perfil-visao_clareza_e_estrutura_.v1.png" width="100%">
 
 
 ---
