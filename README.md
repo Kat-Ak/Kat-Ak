@@ -30,9 +30,7 @@ Análises sobre a intersecção entre tecnologia e eficiência operacional, foca
 (https://web.dio.me/articles/atualizacao-sob-medida-744e31560107?back=/articles)
 ---
 
-### 🗃️ Acesse aqui 👉 [🌌](https://github.com/Kat-Ak/hub-projetos-dio/blob/main/README.md) meu HUB PRINCIPAL | Projetos & Soluções
-
-[meu 🌌 Hub Principal \| Projetos & Soluções](https://github.com/Kat-Ak/hub-projetos-dio/blob/main/README.md)
+### 🗃️ Conheça o 👉 [🌌 HUB PRINCIPAL | Projetos & Soluções](https://github.com/Kat-Ak/HUB-principal-projetos_e_solucoes)
 
 ### 📫 **Conecte-se comigo:** &nbsp; <a href="https://github.com/Kat-Ak" target="_blank"><img src="https://github.com/Kat-Ak/galeria-visual/blob/main/presenca-digital/GitHub-logo.png?raw=true" alt="GitHub" height="25"></a> &nbsp;<a href="https://www.linkedin.com/in/katia-akamoto-home-office" target="_blank"><img src="https://github.com/Kat-Ak/galeria-visual/blob/main/presenca-digital/Linkedin-in-logo.png?raw=true" alt="LinkedIn" height="25"></a>&nbsp;<a href="https://web.dio.me/users/katiaakamoto" target="_blank"><img src="https://github.com/Kat-Ak/galeria-visual/blob/main/presenca-digital/Dio-logo.png?raw=true" alt="DIO" height="25"></a>
 </p>
