@@ -5,7 +5,7 @@
 ---
 # 🤝 Olá, sou Katia Harumi Akamoto 🆔
 
-### Curadoria de Informações | Organização de Processos | Suporte Estratégico com IA
+### Curadoria de Informações | Estruturação e Organização de Fluxos e Processos | Suporte Estratégico com IA
 
 
 Profissional com sólida trajetória no Comércio Exterior, unindo maturidade profissional a um olhar atento para a organização. Minha atuação foca em **simplificar o complexo** e gerar impacto real através da curadoria de dados e otimização de rotinas com o apoio da IA.
